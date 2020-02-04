@@ -18,7 +18,7 @@ const Footer = () => {
         })}
       </div>
       <div className={styles.info}>
-        © {new Date().getFullYear()} John Smilga. All rights reserved. Built
+        © {new Date().getFullYear()} Alex Miller. All rights reserved. Built
         with
         <a href="https://www.gatsbyjs.org/" className={styles.link}>
           Gatsby
